@@ -32,6 +32,7 @@ button {
   background: #4d5ae5;
   display: block;
   margin: 0 auto;
+  cursor: pointer;
 }
 
 button:hover,
@@ -54,7 +55,6 @@ button:focus {
 }
 
 .page-nav {
-  font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -62,7 +62,6 @@ button:focus {
 }
 
 .page-addres {
-  font-family: 'Roboto', sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -78,7 +77,6 @@ button:focus {
 }
 
 .main-text {
-  font-family: 'Roboto', sans-serif;
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
@@ -94,7 +92,6 @@ button:focus {
 }
 
 .advantages-text {
-  font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -103,7 +100,6 @@ button:focus {
 }
 
 .advantages-paragraf {
-  font-family: 'Roboto', sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -118,7 +114,6 @@ button:focus {
 }
 
 .our-team {
-  font-family: 'Roboto', sans-serif;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.1;
@@ -127,7 +122,6 @@ button:focus {
 }
 
 .team-text {
-  font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -136,7 +130,6 @@ button:focus {
 }
 
 .team-paragraf {
-  font-family: 'Roboto', sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -148,7 +141,6 @@ button:focus {
 
 /* #region portfolio */
 .our-portfolio {
-  font-family: 'Roboto', sans-serif;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.1;
@@ -157,7 +149,6 @@ button:focus {
 }
 
 .portfolio-text {
-  font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -165,7 +156,6 @@ button:focus {
 }
 
 .portfolio-paragraf {
-  font-family: 'Roboto', sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -190,7 +180,6 @@ button:focus {
 }
 
 .footer-text {
-  font-family: 'Roboto', sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
