@@ -120,9 +120,15 @@ button:focus {
 .our-team {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.1;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
+.our-team-list {
+  background-color: #ffffff;
 }
 
 .team-text {
@@ -131,6 +137,7 @@ button:focus {
   line-height: 1.2;
   letter-spacing: 0.02em;
   text-align: center;
+  color: #2e2f42;
 }
 
 .team-paragraf {
