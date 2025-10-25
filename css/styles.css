@@ -27,11 +27,17 @@ button {
   background: #4d5ae5;
   margin: 0 auto;
   cursor: pointer;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
 }
 
-button:hover,
+button:hover {
+  background-color: #404bbf;
+}
+
 button:focus {
-  color: #fcfcfc;
+  background-color: #404bbf;
 }
 /* #endregion common */
 
@@ -63,14 +69,15 @@ button:focus {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+
+.page-addres-link {
   color: #434455;
 }
 /* #endregion header */
 
 .main-page {
   background-color: #2e2f42;
-  width: 1440px;
-  height: 600px;
 }
 
 .main-text {
