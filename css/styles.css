@@ -90,10 +90,6 @@ button:focus {
 }
 
 /* #region advantages */
-.page-advantages {
-  width: 344px;
-  height: 600px;
-}
 
 .advantages-text {
   font-weight: 500;
@@ -179,8 +175,6 @@ button:focus {
 
 .footer-page {
   background-color: #2e2f42;
-  width: 1440px;
-  height: 312px;
 }
 
 .footer-logo {
