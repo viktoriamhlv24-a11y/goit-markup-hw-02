@@ -11,11 +11,11 @@ ul {
 
 a {
   text-decoration: none;
-  color: inherit;
+  color: #2e2f42;
 }
 
 a:hover {
-  color: #4d5ae5;
+  color: #404bbf;
 }
 
 a:focus {
@@ -37,15 +37,17 @@ button:focus {
 
 /* #region header */
 .page-logo {
-  font-family: 'Ralewey', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
 }
 
 .logo-detail {
-  color: #4d5ae5;
+  color: #2e2f42;
 }
 
 .page-nav {
@@ -56,6 +58,7 @@ button:focus {
 }
 
 .page-addres {
+  font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
