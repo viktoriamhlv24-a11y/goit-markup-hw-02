@@ -23,6 +23,7 @@ a:focus {
 }
 
 button {
+  font-family: inherit;
   color: #ffffff;
   background: #4d5ae5;
   margin: 0 auto;
