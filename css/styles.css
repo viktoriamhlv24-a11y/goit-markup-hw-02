@@ -184,11 +184,16 @@ button:focus {
 }
 
 .footer-logo {
-  font-family: 'Ralewey', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+
+.footer-logo-detail {
   color: #f4f4fd;
 }
 
